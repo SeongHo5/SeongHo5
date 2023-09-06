@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **SeongHo5/SeongHo5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
-![SeongHo's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical)
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20There&fontSize=90)
+
+  ![SeongHo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeongHo5&show_icons=true&theme=radical)
+
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seongho5)](https://solved.ac/seongho5)
+  
+</div>
+
+
