@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   
   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi%20There&fontSize=90)
 
-  ![SeongHo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeongHo5&show_icons=true&theme=radical)
+  <!-- ![SeongHo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeongHo5&show_icons=true&theme=radical) -->
 
 </div>
 
