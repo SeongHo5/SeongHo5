@@ -1,27 +1,23 @@
-
-
-<!--
-**SeongHo5/SeongHo5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=안녕하세요!&fontSize=60)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi&nbsp;there!<br>asd&fontSize=60)
+  
+  ### Backend Developer
+<br><br>
 
-  <!-- ![SeongHo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeongHo5&show_icons=true&theme=radical) 
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSeongHo5&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-  -->
+  ### Skills
+<p>
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /></div><br>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Github Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
+  
+![SeongHo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeongHo5&count_private=true&show_icons=true&theme=default) 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeongHo5&layout=compact)](https://github.com/SeongHo5/github-readme-stats)
 </div>
-
-
