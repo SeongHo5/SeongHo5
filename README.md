@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi&nbsp;there!<br>asd&fontSize=60)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi&nbsp;there!&fontSize=60)
   
   ### Backend Developer
 <br><br>
@@ -20,4 +20,5 @@
 ![SeongHo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeongHo5&count_private=true&show_icons=true&theme=default) 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeongHo5&layout=compact)](https://github.com/SeongHo5/github-readme-stats)
+
 </div>
