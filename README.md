@@ -1,7 +1,5 @@
 <div align="center">
   
-  <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi&nbsp;there!&fontSize=60) -->
-  
   ### 백엔드 개발자 조성호입니다! :rocket:
 <br><br>
 
